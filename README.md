@@ -81,8 +81,8 @@ function verifySignature(address sender, bytes memory signature) internal view r
 ## Frontend & UI Implementation
 The getGas front-end will be built using:
 - **React.js / Next.js** for the web application.
-- **Ethers.js / Wagmi** for blockchain interactions.
-- **Smart Contract SDK** for seamless integration.
+- **Scaffold-eth-2** for blockchain interactions.
+
 
 ### **UI Features**
 - **Request Dashboard**: Displays open gas requests.
